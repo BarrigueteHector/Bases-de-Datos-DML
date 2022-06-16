@@ -6,9 +6,9 @@ Permite la inserción, modificación y eliminación de registros en una base de 
 
 ANTECEDENTES
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-[DDL](https://github.com/BarrigueteHector/Bases-de-Datos-DDL): CREATE y DROP. 
+[DDL](https://github.com/BarrigueteHector/Bases-de-Datos-DDL): CREATE. 
 
-**DQL**: SELECT (***Cargando repositorio ...***)
+[DQL](https://github.com/BarrigueteHector/Bases-de-Datos-DQL): SELECT.
 
 Desarrollo
 --------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -19,7 +19,8 @@ DML se compone de 4 instrucciones:
 2. [UPDATE](https://github.com/BarrigueteHector/Bases-de-Datos-DML/blob/main/update.sql): actualización de registros de una tabla
 3. [DELETE](https://github.com/BarrigueteHector/Bases-de-Datos-DML/blob/main/delete.sql): eliminación de registros de una tabla
 
-Para el **INSERT** se cuenta con un ejemplo llamado [ejemploInsert](https://github.com/BarrigueteHector/Bases-de-Datos-DML/blob/main/ejemploInsert.sql). Dicho ejemplo cuenta con instrucciones que ya se deben conocer, como son CREATE, SELECT y DROP. ***Revisar apartado de Antecedentes***
+Se agregó un archivo que incluye ejemplos para las tres instrucciones, [Ejemplo](https://github.com/BarrigueteHector/Bases-de-Datos-DML/blob/main/ejemplo.sql). 
+Se incluye el tema de **Operadores de Comparación** (***Cargando repositorio ...***), el cual se verá en un futuro repositorio. 
 
 NOTAS
 --------------------------------------------------------------------------------------------------------------------------------------------------------
